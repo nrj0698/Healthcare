@@ -1,3 +1,10 @@
+paper3 => 2019
+paper2 => 2018
+paper1 => 2017
+storjv3 =>2018    https://storj.io/storjv3.pdf
+sotrj  => 2014    https://storj.io/storj2014.pdf
+filec  => 2017    https://filecoin.io/filecoin.pdf
+
 #Arch.drwaio file represent the rough architechture of the prposed system.
 
 #Paper {1,2,3} are the paper researched
